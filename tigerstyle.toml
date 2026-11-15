@@ -1,0 +1,2 @@
+select = ["ALL"]
+ignore = ["TS046"]
